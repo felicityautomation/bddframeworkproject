@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+    </line>
+    <line>
+      <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+    </line>
+    <line>
+      <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+    </line>
+    <line>
+      <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-01T08:45:42 IST" name="Default suite" finished-at="2024-06-01T08:46:27 IST" duration-ms="45249">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-06-01T08:45:42 IST" name="Default test" finished-at="2024-06-01T08:46:27 IST" duration-ms="45249">
+      <class name="runner.LoginTestRunner2">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:45:42 IST" name="setUpClass" finished-at="2024-06-01T08:45:43 IST" duration-ms="943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4fa9ab6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:45:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-01T08:45:54 IST" duration-ms="11311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test valid login functionaity"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login module related test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:45:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-01T08:46:04 IST" duration-ms="10260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test invalid login functionaity"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login module related test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:46:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-01T08:46:15 IST" duration-ms="10737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test valid login functionaity"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login module related test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:46:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-01T08:46:27 IST" duration-ms="11810" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test valid login functionaity"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login module related test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser using the URL:=https://www.demoblaze.com/index.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.LoginTestRunner2@7c6908d7]" started-at="2024-06-01T08:46:27 IST" name="tearDownClass" finished-at="2024-06-01T08:46:27 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.LoginTestRunner2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
